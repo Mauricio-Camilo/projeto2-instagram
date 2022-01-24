@@ -23,7 +23,7 @@ a {
 }
 .barratopo {
     height: 54px;
-    width: 935px; 
+    max-width: 935px; 
     margin: 0 auto;  
     display: flex;
     justify-content: space-between;
@@ -87,7 +87,7 @@ a {
 }
 
 .pagina{   
-    width: 935px;
+    max-width: 935px;
     height: 100%;
     margin: 0 auto;   
     margin-top: 88px;
@@ -99,7 +99,7 @@ a {
     /* apenas juntou stories
     e feed para dar o flex blox
     na div de cima */
-    width: 614px;
+    max-width: 614px;
     background-color: #E5E5E5; 
 }
 
@@ -216,8 +216,8 @@ a {
 }
 
 .tamanhovideo {
-    width: 612px;
-    height: 612px;
+    width: 100%; 
+    height: 612px; 
     margin: 0 1px;
 }
 
