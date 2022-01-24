@@ -404,7 +404,7 @@ a {
        }
 
        .barraprincipal {
-           width: 100%; 
+           width: 614px; 
        }
 
        .stories {
@@ -424,17 +424,16 @@ a {
        }
 
        .postagem-1 {
-           width: 100%;
+           width: 614px;
            margin-top: 0;
        }  
 
        .postimagem {
-        width: 100%;
-        height: 612px;
+        width: 614px;
     }    
 
     .tamanhovideo {
-        width: 100%;
+        width: 612px;
         height: 612px;
     }    
 
